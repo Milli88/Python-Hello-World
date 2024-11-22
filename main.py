@@ -7,5 +7,9 @@ def main():
     print("First Change")
     
     
+def newFeature():
+    print("added new feature")
+    
+    
 if __name__ == "__main__":
     main()
